@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asifs_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifs_cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asifs.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifs.cse" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asifscse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifs.cse" height="30" width="40" /></a>
 <a href="https://fb.com/asifs.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifs.cse" height="30" width="40" /></a>
-<a href="https://instagram.com/asifs.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asifs.cse" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/as lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="as lab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/asifs.cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asifs.cse" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ASLab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="as lab" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asifs.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asifs.cse" height="30" width="40" /></a>
 </p>
 
