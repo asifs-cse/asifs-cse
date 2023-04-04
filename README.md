@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Shahriar</h1>
-<h3 align="center">Competitive Programmer | Android Developer | Learning Backend Development</h3>
+<h3 align="center">Competitive Programmer | Android Developer | Full-Stack Developer | Learning Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifs-cse&label=Profile%20views&color=0e75b6&style=flat" alt="asifs-cse" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/asifs_cse" target="blank"><img src="https://img.shields.io/twitter/follow/asifs_cse?logo=twitter&style=for-the-badge" alt="asifs_cse" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Android Development & Web App Development**
 
-- 🌱 I’m currently learning **C++, Java, Python**
+- 🌱 I’m currently learning **C++, Java, Python, MEAN Stack**
 
 - 💬 Ask me about **Anything**
 
