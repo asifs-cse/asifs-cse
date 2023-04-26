@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asif Shahriar</h1>
 <h3 align="center">Competitive Programmer | Android Developer | Full-Stack Developer | Learning Backend Development</h3>
-<img src="https://komarev.com/ghpvc/?username=asifs-cse&label=Profile%20views&color=0e75b6&style=flat" alt="asifs-cse" />
+<img src="https://shorturl.at/fotGY" alt="asifs-cse" />
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=asifs-cse&label=Profile%20views&color=0e75b6&style=flat](https://scontent.fccu7-1.fna.fbcdn.net/v/t39.30808-6/314579435_1793684951024388_9133093925764712023_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=tgGfmpdUFmgAX8JXSWW&_nc_ht=scontent.fccu7-1.fna&oh=00_AfAZz_3jz4UUM8-guGbYhgcBUHDJ1OTfwx9HeXdqVrg0Qw&oe=644D8C4D)" alt="asifs-cse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifs-cse&label=Profile%20views&color=0e75b6&style=flat" alt="asifs-cse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifs-cse" alt="asifs-cse" /></a> </p>
 
